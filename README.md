@@ -5,9 +5,9 @@ The CMS is built with scalability and flexibility in mind, making it suitable fo
 
 # 📍 The Process
 • Requirement Analysis – Identified user needs, system goals, and core features such as content creation, role-based access, and media management. <br>
-•System Design – Designed the system architecture, database schema, user roles, and content workflows.
-•Technology Selection – Chose appropriate tools, frameworks, and technologies to ensure scalability, security, and performance.
-•Development – Implemented core functionalities including content management, authentication, authorization, and template handling.
-•Testing – Tested features for functionality, usability, and security to ensure system reliability.
-•Deployment – Deployed the CMS to a server or hosting platform and configured it for use.
-•Maintenance & Enhancement – Fixed issues, optimized performance, and added improvements based on feedback.
+•System Design – Designed the system architecture, database schema, user roles, and content workflows. <br>
+•Technology Selection – Chose appropriate tools, frameworks, and technologies to ensure scalability, security, and performance.<br>
+•Development – Implemented core functionalities including content management, authentication, authorization, and template handling.<br>
+•Testing – Tested features for functionality, usability, and security to ensure system reliability.<br>
+•Deployment – Deployed the CMS to a server or hosting platform and configured it for use.<br>
+•Maintenance & Enhancement – Fixed issues, optimized performance, and added improvements based on feedback.<br>
