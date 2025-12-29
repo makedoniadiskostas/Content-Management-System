@@ -6,6 +6,7 @@ The CMS is built with scalability and flexibility in mind, making it suitable fo
 # 🌠 Technologies
 • PHP <br>
 • MySql <br>
+• CSS <br>
 • Xammp <br>
 • Visual Studio Code <br>
 
