@@ -4,11 +4,4 @@ This project is a Content Management System (CMS) designed to simplify the creat
 The CMS is built with scalability and flexibility in mind, making it suitable for websites, blogs, and enterprise-level content platforms. Key features include content versioning, media management, customizable templates, and workflow management to streamline approval processes. By centralizing content operations, the system improves productivity, ensures content accuracy, and enables faster updates across digital channels.
 
 # 📍 The Process
-• Requirement Analysis – Identified user needs, system goals, and core features such as content creation, role-based access, and media management. <br> <br>
-•System Design – Designed the system architecture, database schema, user roles, and content workflows. <br><br>
-•Technology Selection – Chose appropriate tools, frameworks, and technologies to ensure scalability, security, and performance.<br><br>
-•Development – Implemented core functionalities including content management, authentication, authorization, and template handling.<br><br>
-•Testing – Tested features for functionality, usability, and security to ensure system reliability.<br><br>
-•Deployment – Deployed the CMS to a server or hosting platform and configured it for use.<br><br>
-•Maintenance & Enhancement – Fixed issues, optimized performance, and added improvements based on feedback.<br><br>
-<br>
+The development of this Content Management System began with analyzing user requirements and defining core features such as content creation, editing, and role-based access. The system architecture and database were then designed to support scalability and efficient workflows. Appropriate technologies were selected, followed by the implementation of key functionalities. The system was tested to ensure reliability and security, deployed to a hosting environment, and continuously improved through maintenance and enhancements.
